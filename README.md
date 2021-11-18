@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi there!
 
-[![Eisa's github stats](https://github-readme-stats.vercel.app/api?username=eisaadil&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/eisaadil/github-readme-stats)
+[![Eisa's github stats](https://github-readme-stats.vercel.app/api?username=eisaadil&show_icons=true&theme=radical&hide_rank=false)](https://github.com/eisaadil/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eisaadil)](https://github.com/eisaadil/github-readme-stats)
  -->
